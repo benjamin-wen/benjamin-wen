@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🛠 Working on a new macOS app is my spare time.
+- 🌱 Learning SwiftUI
+- 👨🏻‍💻 Looking for job opportinities in Germany.
+
 <!--
 **benjamin-wen/benjamin-wen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
