@@ -6,5 +6,4 @@ Here is a few things about me:
 - 🌱 Tinkering with SwiftUI. 
 - 🤓 Learning German 🇩🇪 on [Duolingo](https://www.duolingo.com/profile/benjamin-wen).
 - 👨🏻‍💻 Looking for job opportinities in Germany.
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=benjamin-wen.benjamin-wen)
+- 🔗 If you find anything helpful to you, I'd appreciate that you can endorse my skills in [LinkedIn](https://linkedin.com/in/benjaminwen-dev).
