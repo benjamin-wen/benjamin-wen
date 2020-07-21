@@ -1,6 +1,6 @@
 Hi there 👋, thanks for stopping by.
 
-Here is a few things about me:
+About me:
 
 - 🛠 Working on a new macOS app in my spare time.
 - 🌱 Tinkering with SwiftUI. 
